@@ -1,7 +1,5 @@
 # Underwater Image Enhancement Using Adaptive Color Correction and Improved Retinex Algorithm
 
-![Underwater Enhancement Banner](./sample_images/banner.jpg)
-
 ---
 
 ## 📊 Overview
