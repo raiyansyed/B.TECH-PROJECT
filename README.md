@@ -123,8 +123,8 @@ These metrics confirm our method's superiority over existing techniques.
 
 ## 📄 Documentation
 
-- [📄 Full Project Report (PDF)](./documentation/B12_Project_Report.pdf)
-- [📝 Final Viva Presentation (PPTX)](./documentation/viva_presentation.pptx)
+- [📄 Full Project Report (PDF)](https://github.com/raiyansyed/B.TECH-PROJECT/blob/main/Raiyan.pdf)
+- [📝 Final Viva Presentation (PPTX)](https://github.com/raiyansyed/B.TECH-PROJECT/blob/main/viva.pptx)
 
 Includes:
 - Introduction to Digital Image Processing
